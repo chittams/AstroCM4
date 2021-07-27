@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "AstroCM4")(type "KiCad")(uri "${KIPRJMOD}/AstroCM4.kicad_sym")(options "")(descr ""))
+)
