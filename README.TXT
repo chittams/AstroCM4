@@ -1,10 +1,7 @@
-These files have been created in prerelease version 6 of KiCAD. If Version 6 isn't released yet then to use them you will need to download a nightly build of KiCAD. NB Nightly builds my have issues so please check the issue tracker. 
-
-Some of the 3d models need to be downloaded form the following places and put into the CM4IO.3shapes directory some models are approximations.
-
-https://datasheets.raspberrypi.org/cm4/CM4-step.zip
-https://www.amphenol-icc.com/pci-express-1001878311200tlf.html
-https://www.te.com/global-en/product-171826-4.html
-https://www.molex.com/molex/products/part-detail/memory_card_socket/5033981892
-
-The models provided in the 3dmodels directory are from various manufacturers including Diodes, Hirose, MTCONN,Toby, TRXCOM. Terms and conditions for the use of the models remain with the original manufacture.
+This is a port from Pierros Papadeas AstroHat project with objectives to create a Raspberry Pi Compute Module 4 (CM4) at the heart.
+With added connections via the PCIe and for USB 3.0 and GPS
+4x 12V switchable outputs @3A each
+2x 12V PWM switchable outputs @3A each
+1 adjustable 6-12 V output @3A
+Current and fault monitoring for each channel individually
+Temperature, Humidity and Pressure sensor port (for an external readily available module)
